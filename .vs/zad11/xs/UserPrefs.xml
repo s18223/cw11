@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{1AFEC5DE-FC26-4E8D-9DAF-E959C79F41FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="zad11/services/EfCustomDbService.cs">
+    <Files>
+      <File FileName="zad11/Controllers/WeatherForecastController.cs" Line="5" Column="31" />
+      <File FileName="zad11/Controllers/DoctorsController.cs" Line="17" Column="25" />
+      <File FileName="zad11/DTO/AddDoctorRequest.cs" Line="4" Column="31" />
+      <File FileName="zad11/Models/Medicament.cs" Line="6" Column="9" />
+      <File FileName="zad11/Models/Doctor.cs" Line="10" Column="28" />
+      <File FileName="zad11/Models/Patient.cs" Line="9" Column="45" />
+      <File FileName="zad11/Models/Prescription.cs" Line="14" Column="9" />
+      <File FileName="zad11/Models/PrescriptionMedicament.cs" Line="17" Column="31" />
+      <File FileName="zad11/Models/CustomDbContext.cs" Line="6" Column="41" />
+      <File FileName="zad11/CustomDbInitializer.cs" Line="9" Column="37" />
+      <File FileName="zad11/Web.config" Line="18" Column="107" />
+      <File FileName="zad11/services/EfCustomDbService.cs" Line="6" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="zad11" expanded="True">
+            <Node name="zad11" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True" />
+              <Node name="DTO" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="services" expanded="True">
+                <Node name="EfCustomDbService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.zad11 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
